@@ -1,0 +1,1 @@
+Alexa skill based on the how-to template. It tells you the ingredients or recipe for different coffee drinks like latte, mocha etc.
